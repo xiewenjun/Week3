@@ -1,4 +1,4 @@
-## 
+## Main code of run_analysis.R to get and clean data 
 
 ## Read data to R
 features = read.table("UCI HAR Dataset/features.txt", header=F)
